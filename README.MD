@@ -42,3 +42,6 @@ net stop myapp
 ```
 myapp.exe uninstall
 ```
+
+##安装成linux服务的方法
+http://blog.csdn.net/dong_19890208/article/details/62217208  
